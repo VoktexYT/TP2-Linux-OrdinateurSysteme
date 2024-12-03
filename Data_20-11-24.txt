@@ -1,0 +1,5 @@
+100:Alice:Dupont:803-463-2920:alice.dupont@email.com:71971:Rue de la Paix:Montréal:H1A 1A1:QC:
+101:Bob:Martin:316-150-3295:bob.martin@email.com:456:Avenue Principale:Toronto:M2B 2B2:ON:
+102:Claire:Lefevre:952-319-3540:claire.lefevre@email.com:71:Rue des Fleurs:Vancouver:V3C 3C3:BC:
+103:David:Tremblay:816-675-3944:david.tremblay@email.com:101:Rue Principale:Québec:G1G 1G1:QC:
+104:Emily:Smith:608-380-0235:emily.smith@email.com:222:Rue Maple:Calgary:T2H 2H2:AB:
